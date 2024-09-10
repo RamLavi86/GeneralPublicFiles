@@ -23,5 +23,5 @@ site_id_list=[
     4120934, # Backup Testopstelling Alius
     514698, # Solar03
     78491, # Demo AT
-    418375, # PV System J&E
+    418375 # PV System J&E
     ]
