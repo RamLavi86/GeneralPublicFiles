@@ -18,4 +18,5 @@ site_id_list=[
     4035579, # Stadhouderslaan 15 - Zoeterwoude
     2508009, # NAU WATTS RENOVABLE
     4325437, # Bucher - Westendorf
+    #Idan comment
     ]
