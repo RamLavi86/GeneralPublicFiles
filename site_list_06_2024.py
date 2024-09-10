@@ -19,4 +19,5 @@ site_id_list=[
     2508009, # NAU WATTS RENOVABLE
     4325437, # Bucher - Westendorf
     #Idan comment
+    #Idan comment 2
     ]
