@@ -18,6 +18,10 @@ site_id_list=[
     4035579, # Stadhouderslaan 15 - Zoeterwoude
     2508009, # NAU WATTS RENOVABLE
     4325437, # Bucher - Westendorf
-    #Idan comment
-    #Idan comment 2
+    2953331, # BERTAGLIA ALESSANDRO
+    740582, # SzabÃ³ Norbert - KoroncÃ³
+    4120934, # Backup Testopstelling Alius
+    514698, # Solar03
+    78491, # Demo AT
+    418375, # PV System J&E
     ]
