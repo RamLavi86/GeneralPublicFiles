@@ -28,5 +28,6 @@ site_id_list=[
     4354246, # Krebs Reinhold - Bobingen
     3073643, # W. Knol
     2550334, # V1 Musterhauspark
-    2238822 # PV Training Wall 
+    2238822, # PV Training Wall
+    4102850 # Training Lennep 2
     ]
