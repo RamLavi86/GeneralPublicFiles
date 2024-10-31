@@ -29,5 +29,7 @@ site_id_list=[
     3073643, # W. Knol
     2550334, # V1 Musterhauspark
     2238822, # PV Training Wall
-    4102850 # Training Lennep 2
+    4102850, # Training Lennep 2
+    3900537, # Manfred Knapp
+    3914171 # Steinhaus Niklas
     ]
