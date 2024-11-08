@@ -31,5 +31,7 @@ site_id_list=[
     2238822, # PV Training Wall
     4102850, # Training Lennep 2
     3900537, # Manfred Knapp
-    3914171 # Steinhaus Niklas
+    3914171, # Steinhaus Niklas
+    4211522, # PV Röder Heutensbach
+    3726429 # Schuster Jochen
     ]
