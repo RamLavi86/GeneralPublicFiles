@@ -34,5 +34,6 @@ site_id_list=[
     3914171, # Steinhaus Niklas
     4211522, # PV Röder Heutensbach
     3726429, # Schuster Jochen
-    4314184 #Bakker Residence V2
+    4314184, # Bakker Residence V2
+    3854798 # LANGLOIS Nicolas
     ]
