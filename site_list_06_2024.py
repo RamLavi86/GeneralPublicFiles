@@ -35,5 +35,8 @@ site_id_list=[
     4211522, # PV Röder Heutensbach
     3726429, # Schuster Jochen
     4314184, # Bakker Residence V2
-    3854798 # LANGLOIS Nicolas
+    3854798, # LANGLOIS Nicolas
+    4199312, # Uwe Helwig
+    4422500, # Heinrich Schnabel
+    3602724 # Eichenberg
     ]
