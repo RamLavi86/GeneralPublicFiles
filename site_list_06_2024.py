@@ -39,5 +39,7 @@ site_id_list=[
     4199312, # Uwe Helwig
     4422500, # Heinrich Schnabel
     3602724, # Eichenberg
-    3813962 # Mehul Modi
+    3813962, # Mehul Modi
+    3769136, # Wilmes Henning
+    1336696 # Timo Wolter
     ]
