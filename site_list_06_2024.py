@@ -2,6 +2,7 @@
 
 site_id_list=[
     1201834, # Stefan Randle - Mennekes
+    1348303, # den Ouden Hans
     2009706, # Wolfram Krause - Mennekes
     3827773, # Yannick Billharz - Mennekes
     144878, # Humfrey Disco - Mennekes
