@@ -42,5 +42,6 @@ site_id_list=[
     3602724, # Eichenberg
     3813962, # Mehul Modi
     3769136, # Wilmes Henning
+    2525100, # Homokalja
     1336696 # Timo Wolter
     ]
